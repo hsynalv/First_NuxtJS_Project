@@ -1,0 +1,38 @@
+[
+  {
+    "path": "/products",
+    "component": "D:\\\\Yazılım\\\\Nuxt.js\\\\pages-routing-views-layouts\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "children": [
+      {
+        "name": "products",
+        "path": "",
+        "component": "D:\\\\Yazılım\\\\Nuxt.js\\\\pages-routing-views-layouts\\\\pages\\\\products\\\\index.vue",
+        "chunkName": "pages/products/index",
+        "_name": "_068e4af6"
+      },
+      {
+        "name": "products-productId",
+        "path": ":productId",
+        "component": "D:\\\\Yazılım\\\\Nuxt.js\\\\pages-routing-views-layouts\\\\pages\\\\products\\\\_productId\\\\index.vue",
+        "chunkName": "pages/products/_productId/index",
+        "_name": "_211cecba"
+      },
+      {
+        "name": "products-productId-edit",
+        "path": ":productId/edit",
+        "component": "D:\\\\Yazılım\\\\Nuxt.js\\\\pages-routing-views-layouts\\\\pages\\\\products\\\\_productId\\\\edit.vue",
+        "chunkName": "pages/products/_productId/edit",
+        "_name": "_7ad1b752"
+      }
+    ],
+    "_name": "_5964e75d"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Yazılım\\\\Nuxt.js\\\\pages-routing-views-layouts\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_106150a9"
+  }
+]
