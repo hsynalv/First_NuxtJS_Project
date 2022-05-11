@@ -2,7 +2,7 @@
   "name": "2-pages-routing-views-layouts",
   "version": "1.0.0",
   "description": "My impressive Nuxt.js project",
-  "author": "Gökhan Kandemir",
+  "author": "beyazskorsky",
   "private": true,
   "scripts": {
     "dev": "nuxt",
